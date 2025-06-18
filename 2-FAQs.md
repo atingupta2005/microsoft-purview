@@ -1,6 +1,4 @@
-# 📘 Microsoft Purview – **Expanded FAQ & How-To Guide**
-
-*A practical, example-rich reference that touches every major angle of the platform.*
+# 📘 Microsoft Purview – **FAQ & How-To Guide**
 
 ---
 
@@ -207,7 +205,3 @@ Choose Purview for Azure-centric estates or Microsoft 365 alignment; choose othe
 | Glossary Owner Role?  | **Definition gatekeeper** |
 
 ---
-
-### Need something else?
-
-Ask for 👉 role-specific FAQs, step-by-step labs, or architecture diagrams, and I’ll add them inline!
