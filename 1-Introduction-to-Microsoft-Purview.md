@@ -2,7 +2,7 @@
 
 ---
 
-## Chapter 1: Understanding the Need for Data Governance in the Modern Enterprise
+## 1: Understanding the Need for Data Governance in the Modern Enterprise
 
 ### 1.1 Data Explosion and Complexity
 
@@ -42,7 +42,7 @@ Without governance, organizations face:
 
 ---
 
-## Chapter 2: Introduction to Microsoft Purview
+## 2: Introduction to Microsoft Purview
 
 ### 2.1 What is Microsoft Purview?
 
@@ -65,7 +65,7 @@ It’s built to support **enterprise-scale metadata management** and **automated
 
 ---
 
-## Chapter 3: Microsoft Purview Architecture and Components
+## 3: Microsoft Purview Architecture and Components
 
 ### 3.1 High-Level Architecture
 
@@ -92,7 +92,7 @@ Purview updates its **Data Map** continuously as scans run.
 
 ---
 
-## Chapter 4: Deep Dive into Core Features
+## 4: Deep Dive into Core Features
 
 ### 4.1 Data Map
 
@@ -155,7 +155,7 @@ Purview updates its **Data Map** continuously as scans run.
 
 ---
 
-## Chapter 5: Role-Based Use Cases
+## 5: Role-Based Use Cases
 
 ### 5.1 For Data Analysts
 
@@ -183,7 +183,7 @@ Purview updates its **Data Map** continuously as scans run.
 
 ---
 
-## Chapter 6: Integration Ecosystem
+## 6: Integration Ecosystem
 
 Microsoft Purview integrates with:
 
@@ -196,7 +196,7 @@ Microsoft Purview integrates with:
 
 ---
 
-## Chapter 7: Best Practices for Implementation
+## 7: Best Practices for Implementation
 
 * **Start small, scale fast**: Begin with critical domains (finance, HR).
 * **Automate scans** for critical sources weekly or daily.
@@ -206,7 +206,7 @@ Microsoft Purview integrates with:
 
 ---
 
-## Chapter 8: Licensing, Cost Management, and Scaling Governance
+## 8: Licensing, Cost Management, and Scaling Governance
 
 ### 8.1 Licensing Model
 
@@ -229,7 +229,7 @@ Microsoft Purview integrates with:
 * **Continuously monitor** with Purview insights.
 
 ---
-	
+
 ## 9: Summary
 
 Microsoft Purview is a **foundational tool** for modern data governance. It delivers:
@@ -241,4 +241,3 @@ Microsoft Purview is a **foundational tool** for modern data governance. It deli
 * Centralized policy enforcement.
 
 It supports roles across business, compliance, IT, and analytics. Whether your organization is beginning its governance journey or scaling enterprise-wide programs, Purview can serve as the **central platform** for managing trust in data.
-
